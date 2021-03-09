@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/sushi-time-vrn.github.io/static/css/main.884ceb27.chunk.css",
-    "main.js": "/sushi-time-vrn.github.io/static/js/main.ba38d168.chunk.js",
-    "main.js.map": "/sushi-time-vrn.github.io/static/js/main.ba38d168.chunk.js.map",
-    "runtime-main.js": "/sushi-time-vrn.github.io/static/js/runtime-main.92b463dc.js",
-    "runtime-main.js.map": "/sushi-time-vrn.github.io/static/js/runtime-main.92b463dc.js.map",
-    "static/css/2.2cfa1b23.chunk.css": "/sushi-time-vrn.github.io/static/css/2.2cfa1b23.chunk.css",
-    "static/js/2.4be08a3f.chunk.js": "/sushi-time-vrn.github.io/static/js/2.4be08a3f.chunk.js",
-    "static/js/2.4be08a3f.chunk.js.map": "/sushi-time-vrn.github.io/static/js/2.4be08a3f.chunk.js.map",
-    "index.html": "/sushi-time-vrn.github.io/index.html",
-    "precache-manifest.314fd075b8736753bf85944213e227a3.js": "/sushi-time-vrn.github.io/precache-manifest.314fd075b8736753bf85944213e227a3.js",
-    "service-worker.js": "/sushi-time-vrn.github.io/service-worker.js",
-    "static/css/2.2cfa1b23.chunk.css.map": "/sushi-time-vrn.github.io/static/css/2.2cfa1b23.chunk.css.map",
-    "static/css/main.884ceb27.chunk.css.map": "/sushi-time-vrn.github.io/static/css/main.884ceb27.chunk.css.map",
-    "static/js/2.4be08a3f.chunk.js.LICENSE.txt": "/sushi-time-vrn.github.io/static/js/2.4be08a3f.chunk.js.LICENSE.txt",
-    "static/media/persik.png": "/sushi-time-vrn.github.io/static/media/persik.4e1ec840.png"
+    "main.css": "/sushitimevrn.github.io/static/css/main.884ceb27.chunk.css",
+    "main.js": "/sushitimevrn.github.io/static/js/main.ba38d168.chunk.js",
+    "main.js.map": "/sushitimevrn.github.io/static/js/main.ba38d168.chunk.js.map",
+    "runtime-main.js": "/sushitimevrn.github.io/static/js/runtime-main.995c55de.js",
+    "runtime-main.js.map": "/sushitimevrn.github.io/static/js/runtime-main.995c55de.js.map",
+    "static/css/2.2cfa1b23.chunk.css": "/sushitimevrn.github.io/static/css/2.2cfa1b23.chunk.css",
+    "static/js/2.a06ad474.chunk.js": "/sushitimevrn.github.io/static/js/2.a06ad474.chunk.js",
+    "static/js/2.a06ad474.chunk.js.map": "/sushitimevrn.github.io/static/js/2.a06ad474.chunk.js.map",
+    "index.html": "/sushitimevrn.github.io/index.html",
+    "precache-manifest.71ec1b3ee7bd21893f2d96c27500d19d.js": "/sushitimevrn.github.io/precache-manifest.71ec1b3ee7bd21893f2d96c27500d19d.js",
+    "service-worker.js": "/sushitimevrn.github.io/service-worker.js",
+    "static/css/2.2cfa1b23.chunk.css.map": "/sushitimevrn.github.io/static/css/2.2cfa1b23.chunk.css.map",
+    "static/css/main.884ceb27.chunk.css.map": "/sushitimevrn.github.io/static/css/main.884ceb27.chunk.css.map",
+    "static/js/2.a06ad474.chunk.js.LICENSE.txt": "/sushitimevrn.github.io/static/js/2.a06ad474.chunk.js.LICENSE.txt",
+    "static/media/persik.png": "/sushitimevrn.github.io/static/media/persik.4e1ec840.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.92b463dc.js",
+    "static/js/runtime-main.995c55de.js",
     "static/css/2.2cfa1b23.chunk.css",
-    "static/js/2.4be08a3f.chunk.js",
+    "static/js/2.a06ad474.chunk.js",
     "static/css/main.884ceb27.chunk.css",
     "static/js/main.ba38d168.chunk.js"
   ]
