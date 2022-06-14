@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/sushitimevrn.github.io/static/css/main.884ceb27.chunk.css",
-    "main.js": "/sushitimevrn.github.io/static/js/main.0107a027.chunk.js",
-    "main.js.map": "/sushitimevrn.github.io/static/js/main.0107a027.chunk.js.map",
+    "main.css": "/sushitimevrn.github.io/static/css/main.be48b834.chunk.css",
+    "main.js": "/sushitimevrn.github.io/static/js/main.650294ae.chunk.js",
+    "main.js.map": "/sushitimevrn.github.io/static/js/main.650294ae.chunk.js.map",
     "runtime-main.js": "/sushitimevrn.github.io/static/js/runtime-main.995c55de.js",
     "runtime-main.js.map": "/sushitimevrn.github.io/static/js/runtime-main.995c55de.js.map",
     "static/css/2.2cfa1b23.chunk.css": "/sushitimevrn.github.io/static/css/2.2cfa1b23.chunk.css",
-    "static/js/2.a06ad474.chunk.js": "/sushitimevrn.github.io/static/js/2.a06ad474.chunk.js",
-    "static/js/2.a06ad474.chunk.js.map": "/sushitimevrn.github.io/static/js/2.a06ad474.chunk.js.map",
+    "static/js/2.4026cff9.chunk.js": "/sushitimevrn.github.io/static/js/2.4026cff9.chunk.js",
+    "static/js/2.4026cff9.chunk.js.map": "/sushitimevrn.github.io/static/js/2.4026cff9.chunk.js.map",
     "index.html": "/sushitimevrn.github.io/index.html",
-    "precache-manifest.4d54edf4fe3e2ba60cb3b82030bc4899.js": "/sushitimevrn.github.io/precache-manifest.4d54edf4fe3e2ba60cb3b82030bc4899.js",
+    "precache-manifest.dac50f8d2d2904634e95ff5016b0b806.js": "/sushitimevrn.github.io/precache-manifest.dac50f8d2d2904634e95ff5016b0b806.js",
     "service-worker.js": "/sushitimevrn.github.io/service-worker.js",
     "static/css/2.2cfa1b23.chunk.css.map": "/sushitimevrn.github.io/static/css/2.2cfa1b23.chunk.css.map",
-    "static/css/main.884ceb27.chunk.css.map": "/sushitimevrn.github.io/static/css/main.884ceb27.chunk.css.map",
-    "static/js/2.a06ad474.chunk.js.LICENSE.txt": "/sushitimevrn.github.io/static/js/2.a06ad474.chunk.js.LICENSE.txt",
+    "static/css/main.be48b834.chunk.css.map": "/sushitimevrn.github.io/static/css/main.be48b834.chunk.css.map",
+    "static/js/2.4026cff9.chunk.js.LICENSE.txt": "/sushitimevrn.github.io/static/js/2.4026cff9.chunk.js.LICENSE.txt",
     "static/media/persik.png": "/sushitimevrn.github.io/static/media/persik.4e1ec840.png"
   },
   "entrypoints": [
     "static/js/runtime-main.995c55de.js",
     "static/css/2.2cfa1b23.chunk.css",
-    "static/js/2.a06ad474.chunk.js",
-    "static/css/main.884ceb27.chunk.css",
-    "static/js/main.0107a027.chunk.js"
+    "static/js/2.4026cff9.chunk.js",
+    "static/css/main.be48b834.chunk.css",
+    "static/js/main.650294ae.chunk.js"
   ]
 }
