@@ -1,20 +1,20 @@
 {
-  "background_color": "#ffffff",
+  "background_color": "#ff7300",
   "display": "standalone",
   "lang": "en",
-  "name": "Stromboli",
-  "short_name": "Stromboli",
+  "name": "Sushi Time",
+  "short_name": "Sushi Time",
   "start_url": "/?utm_source=web_app_manifest",
   "orientation": "portrait",
   "related_applications": [
     {
       "platform": "itunes",
-      "id": "ru.pixelcrm.app.Stromboli"
+      "id": "ru.sushitime.app"
     },
     {
       "platform": "play",
-      "url": "http://play.google.com/store/apps/details?id=ru.pixelcrm.app.Stromboli",
-      "id": "ru.pixelcrm.app.Stromboli"
+      "url": "http://play.google.com/store/apps/details?id=ru.sushitime.app",
+      "id": "ru.sushitime.app"
     }
   ],
   "prefer_related_applications": true
