@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sushitimevrn.github.io/static/css/main.1d9a774e.css",
-    "main.js": "/sushitimevrn.github.io/static/js/main.ce069166.js",
+    "main.js": "/sushitimevrn.github.io/static/js/main.843c99f0.js",
     "static/js/356.8611bcd1.js": "/sushitimevrn.github.io/static/js/356.8611bcd1.js",
     "static/media/MaterialCommunityIcons.ttf": "/sushitimevrn.github.io/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
     "static/media/Ionicons.ttf": "/sushitimevrn.github.io/static/media/Ionicons.3517aeaa34b2f8cd8eef.ttf",
@@ -30,12 +30,12 @@
     "favicon-16.png": "/sushitimevrn.github.io/favicon-16.png",
     "serve.json": "/sushitimevrn.github.io/serve.json",
     "main.1d9a774e.css.map": "/sushitimevrn.github.io/static/css/main.1d9a774e.css.map",
-    "main.ce069166.js.map": "/sushitimevrn.github.io/static/js/main.ce069166.js.map",
+    "main.843c99f0.js.map": "/sushitimevrn.github.io/static/js/main.843c99f0.js.map",
     "356.8611bcd1.js.map": "/sushitimevrn.github.io/static/js/356.8611bcd1.js.map"
   },
   "entrypoints": [
     "static/js/356.8611bcd1.js",
     "static/css/main.1d9a774e.css",
-    "static/js/main.ce069166.js"
+    "static/js/main.843c99f0.js"
   ]
 }
