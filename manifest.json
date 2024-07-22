@@ -2,19 +2,19 @@
   "background_color": "#ffffff",
   "display": "standalone",
   "lang": "en",
-  "name": "Sushi Time",
-  "short_name": "Sushi Time",
+  "name": "Суши тайм",
+  "short_name": "Суши тайм",
   "start_url": "/?utm_source=web_app_manifest",
   "orientation": "portrait",
   "related_applications": [
     {
       "platform": "itunes",
-      "id": "ru.pixelcrm.app.redfish"
+      "id": "ru.pixelcrm.app.lunchhouse"
     },
     {
       "platform": "play",
-      "url": "http://play.google.com/store/apps/details?id=ru.pixelcrm.app.redfish",
-      "id": "ru.pixelcrm.app.redfish"
+      "url": "http://play.google.com/store/apps/details?id=ru.pixelcrm.app.lunchhouse",
+      "id": "ru.pixelcrm.app.lunchhouse"
     }
   ],
   "prefer_related_applications": true
