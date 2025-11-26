@@ -9,12 +9,12 @@
   "related_applications": [
     {
       "platform": "itunes",
-      "id": "ru.pixelcrm.app.lunchhouse"
+      "id": "ru.pixelcrm.app.sushi"
     },
     {
       "platform": "play",
-      "url": "http://play.google.com/store/apps/details?id=ru.pixelcrm.app.lunchhouse",
-      "id": "ru.pixelcrm.app.lunchhouse"
+      "url": "http://play.google.com/store/apps/details?id=ru.pixelcrm.app.sushi",
+      "id": "ru.pixelcrm.app.sushi"
     }
   ],
   "prefer_related_applications": true
